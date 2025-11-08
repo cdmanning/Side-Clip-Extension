@@ -1,4 +1,4 @@
-# ![](app/icons/icon-48.png) Side-Clip
+# ![](documentation/ReadMeIcon.png) Side-Clip
 
 A tool designed to boost user productivity by simplifying the copy and pasting of frequently used values.
 
@@ -30,4 +30,5 @@ You can retrieve and paste your saved values using the following methods:
 * **Extension Pop-up:** Access the pop-up and press the **`Copy`** button next to the desired value.
 * **Context Menu:** Right-click in any text field and select the Side-Clip option to paste a saved value.
 * **Hotkeys:** Use the associated hotkeys you set up in the extension settings to paste the value instantly.
+
 
