@@ -3,3 +3,4 @@
 - [ ] Add alternative color themes (Black, Brown, Green, Purple)
 - [ ] Add ability to copy values to storage via hotkey
 - [X] Authenticate the source paste message in content-script.js
+- [ ] Port Side Clip to alternative extension stores and web browsers (Microsoft Edge Add-ons, Firefox Add-ons)
